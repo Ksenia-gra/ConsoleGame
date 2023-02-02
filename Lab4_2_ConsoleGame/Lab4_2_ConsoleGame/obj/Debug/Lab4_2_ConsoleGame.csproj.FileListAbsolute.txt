@@ -1,0 +1,8 @@
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_2_ConsoleGame\Lab4_2_ConsoleGame\bin\Debug\Lab4_2_ConsoleGame.exe.config
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_2_ConsoleGame\Lab4_2_ConsoleGame\bin\Debug\Lab4_2_ConsoleGame.exe
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_2_ConsoleGame\Lab4_2_ConsoleGame\bin\Debug\Lab4_2_ConsoleGame.pdb
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_2_ConsoleGame\Lab4_2_ConsoleGame\obj\Debug\Lab4_2_ConsoleGame.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_2_ConsoleGame\Lab4_2_ConsoleGame\obj\Debug\Lab4_2_ConsoleGame.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_2_ConsoleGame\Lab4_2_ConsoleGame\obj\Debug\Lab4_2_ConsoleGame.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_2_ConsoleGame\Lab4_2_ConsoleGame\obj\Debug\Lab4_2_ConsoleGame.exe
+\\Mac\Home\Desktop\3 course\Laboratories\С#\Lab4_2_ConsoleGame\Lab4_2_ConsoleGame\obj\Debug\Lab4_2_ConsoleGame.pdb
